@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think I am funny😂**
 
-<img aling="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.bYuD5OBj28zyea3-K2bdHQHaEZ?pid=ImgDet&rs=1">
+<img aling="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 
