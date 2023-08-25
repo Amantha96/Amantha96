@@ -1,3 +1,4 @@
+![logo](https://github.com/Amantha96/Amantha96/commit/3aa092109daa34513a90a685a35b608d5a11f5de)
 <h1 align="center">Hi 👋, I'm Amantha Bandara Mayadunna</h1>
 <h3 align="center">Passionate Software Engineer | Mobile App Developer | Flutter Enthusiast</h3>
 
