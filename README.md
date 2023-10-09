@@ -1,16 +1,16 @@
 ![logo](https://github.com/Amantha96/Amantha96/blob/main/Cover%202_Mesa%20de%20trabajo%201.jpg)
 <h1 align="center">Well,hello there👋</h1>
-<h3 align="center">Passionate Software Engineer | Mobile App Developer | Web Development</h3>
+<h3 align="center">Passionate software engineering | mobile apps | web development</h3>
 <h2 align="center">Who am i ?</h2>
-<h3 align="center">I'm a passionate tech enthusiast eager to explore new technologies, not only in programming languages but also across various devices. My goal is to leverage my expertise to tackle social problems and share my knowledge with the world. I'm a dedicated software engineer and mobile app developer, with a strong enthusiasm for Flutter.</h3>
+<h3 align="center">I'm a passionate tech enthusiast eager to explore new technologies, not only in programming languages but also across various devices. My goal is to leverage my expertise to tackle social problems and share my knowledge with the world. I'm a dedicated software engineer, web developer, and mobile app developer, with a strong enthusiasm for React | Nodejs | MongoDB | Firebase | MySql | Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amantha96&label=Profile%20views&color=0e75b6&style=flat" alt="amantha96" /> </p>
 
 - I'm currently working on my personal Mobile app. **NightLife-X**
 
 - 📫 How to reach me
-- Email :**AmanthaBandara1996@gmail.com**
-- Linkedin : **linkedin.com/in/amantha-bandara-mayadunna**
+- Email:**AmanthaBandara1996@gmail.com**
+- Linkedin: **linkedin.com/in/amantha-bandara-mayadunna**
 
 
 
