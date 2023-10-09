@@ -1,6 +1,6 @@
 ![logo](https://github.com/Amantha96/Amantha96/blob/main/Cover%202_Mesa%20de%20trabajo%201.jpg)
 <h1 align="center">Well,hello there👋</h1>
-<h3 align="center">Passionate Software Engineer | Mobile App Developer | Flutter Enthusiast</h3>
+<h3 align="center">Passionate Software Engineer | Mobile App Developer | Web Development</h3>
 <h2 align="center">Who am i ?</h2>
 <h3 align="center">I'm a passionate tech enthusiast eager to explore new technologies, not only in programming languages but also across various devices. My goal is to leverage my expertise to tackle social problems and share my knowledge with the world. I'm a dedicated software engineer and mobile app developer, with a strong enthusiasm for Flutter.</h3>
 
